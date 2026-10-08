@@ -11,6 +11,19 @@
 
 * Provide a high-level overview of the technical changes.
 
+## AI Usage Disclosure
+
+Monogame.Extended does not accept AI generated contributions. Please review our [contribution guidelines](https://github.com/MonoGame-Extended/Monogame-Extended/blob/develop/CONTRIBUTING.md) before submitting.
+
+### Were any AI tools used during the development of this contribution?
+
+* [ ] No AI tools were used
+* [ ] AI tools were used for learning or research only. No AI generated content is included in this contributions.
+
+If AI tools were used, briefly describe which tools were used and how
+
+<!-- Describe AI usage here or enter N/A -->
+
 ## Checklist
 
 Please read and check the following items.  Pull requests will not be reviewed if all items are not checked.
